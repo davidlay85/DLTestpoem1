@@ -5,3 +5,4 @@ This is line 4
 Is there a line missing? Not anymore.
 No wait, there's more, these edits are live
 If not for the filler lines, this would be line 5
+But there are filler lines so it was 7 and this one is 8
